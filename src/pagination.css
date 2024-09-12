@@ -1,0 +1,73 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0 10px;
+}
+
+.pagination-list{
+    display: flex;
+}
+
+.per-page label{
+    font-size: 14px;
+    margin-right: 5px;
+}
+
+.per-page select{
+    padding: 5px;
+    font-size: 14px;
+}
+
+.page-numbers {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0 10px;
+}
+
+.page-numbers li {
+    margin: 0 5px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+}
+
+.page-numbers li.active {
+    background-color: #007bff;
+    color: white;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+}
+
+button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.per-page{
+    display: flex;
+    gap: 20px;
+    color: #666;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.m-0{
+    margin: auto;
+}
+
+.fs-14{
+    font-size: 14px;
+}
