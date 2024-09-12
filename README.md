@@ -2,7 +2,7 @@ How to run a project :
 
 1. checkout to master branch
 2. run npm install
-3. clone the service node project
+3. clone the service node project -- git clone https://github.com/Navyayalamat/shipping-api.git
 4. run the node project in port 10000
 5. start the react server
    
