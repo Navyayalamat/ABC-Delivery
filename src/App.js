@@ -44,6 +44,9 @@ function App() {
         position: 'top',
       }
     },
+    onHover: (event, chartElement, chart) => {
+      chartElement.length > 0 ? chart.canvas.style.cursor = 'pointer' : chart.canvas.style.cursor = 'default';
+    },
     onClick: (event, elements) => {
       if (elements.length > 0) {
         const index = elements[0].index; // Index of the clicked element
