@@ -5,9 +5,17 @@ How to run a project :
 3. clone the service node project -- git clone https://github.com/Navyayalamat/shipping-api.git
 4. run the node project in port 10000
 5. start the react server
+
+Note: Please click on the pi chart to see the data 
    
 
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/1500b0f0-08ac-42e7-b204-55e59ceba894">
+
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/60e977ae-0809-44d6-ad3a-68fa3c9acbf6">
+
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/759e50ad-269a-481e-b522-b12641255909">
+
+
 
 ABC Company is looking for a solution that helps them to monitor or a way of knowing how their shipments are going without digging into too much detail and proactively update their customers to improve customer satisfaction.
 
