@@ -49,4 +49,15 @@ Deployment Steps on Heroku:
 - Heroku login: Log in to Heroku with your credentials. 
 - Heroku create: This command creates a new Heroku app that will host the ABC-Delivery system. 
 - git push Heroku <branch name>: This pushes the code from the specified branch to the Heroku app, initiating the build and deployment process. 
-- Once deployed, the system can be monitored and scaled as necessary to handle larger data volumes or additional features like automated notifications and predictive analytics. 
+- Once deployed, the system can be monitored and scaled as necessary to handle larger data volumes or additional features like automated notifications and predictive analytics.
+
+How to run a project :
+
+1. checkout to master branch
+2. run npm install
+3. clone the service node project -- git clone https://github.com/Navyayalamat/shipping-api.git
+4. checkout to master branch
+5. run the node project in port 10000
+6. start the react server
+   
+
