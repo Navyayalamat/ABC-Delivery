@@ -2,6 +2,9 @@ How to run a project :
 
 1. checkout to master branch
 2. run npm install
+3. clone the service node project
+4. run the node project in port 10000
+5. start the react server
    
 
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/1500b0f0-08ac-42e7-b204-55e59ceba894">
