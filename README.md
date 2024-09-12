@@ -59,5 +59,7 @@ How to run a project :
 4. checkout to master branch
 5. run the node project in port 10000
 6. start the react server
+
+Note: Click on the pi chart to see the data in the table 
    
 
